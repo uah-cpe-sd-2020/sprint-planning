@@ -1,43 +1,98 @@
 ---
-title: Slides Template
-separator: <!--s-->
-verticalSeparator: <!--v-->
+title: "Planning Meeting"
+sparator: "---"
+verticalSeparator: "---v"
 theme: solarized
 revealOptions:
-    transition: 'fade'
+    transition: "fade"
 ---
-# Local
 
-This will serve the presentation
+# Team
+# Retro & Planning
+# Meeting
 
-and open a browser to view it
+`Today's Date`
 
-* clone the repo
-* edit the `slides.md` file
-* then:
-```
-npm install
-npm run presentation
-```
+---
 
-Note: This is a speaker note, you need node 6.x installed
+## Cleanup
 
-<!--s-->
+Please close all issues that have been manually or automated tested. They are starting to clutter out our current issues.
 
-# GitHub Pages
+---
 
-* fork the repo
-* setup a build in travis for the fork - don't forget the env var with your personal access token
-* edit the `slides.md` file
-* push to github
-* view presentation on GitHub - in the project pages for your repo
+## Status
 
-<!--v-->
+Let's have the status of each member of the team
 
-# References
+- What did you work on?
+- How is it going?
+- Any blockers?
+- What do you need to move forward
 
-* [reveal-md](https://github.com/webpro/reveal-md)
-* [reveal.js](http://lab.hakim.se/reveal-js)
-* [GitHub Pages](https://pages.github.com)
-* [Travis CI](https://travis-ci.org)
-* [This template](https://github.com/martinmurphy/slidestemplate)
+---
+
+## Retro
+
+---v
+
+What went well?
+
+---v
+
+What should we change or improve?
+
+---v
+
+What will we commit to improve over the next sprint?
+
+---
+
+## Sprint Planning
+
+Next sprint
+| Starting | Ending | Length |
+| -------- | ------ | ------ |
+| February 18 | March 01 | 12 days |
+
+---
+
+## UI Planning
+
+Top 5 issues
+
+0. **Firestore Service Utilities**
+1. Feeder List (#26)
+2. Add a Feeder - Process (#23)
+3. Pet List (#25)
+4. Add a Pet - Process (#24)
+
+---v
+
+## Hardware Planning
+
+Top 5 issues
+
+0. Interface with RFID Scanner (#4)
+1. Interface with WiFi (#9) - Epic (To Be Broken up)
+2. Update Interface with Motors (#10)
+3. 
+4. 
+
+---v
+
+## Other Planning
+
+0. Topical Seminar
+1. 
+2. 
+3. 
+4. 
+
+---
+
+## Who wants what?
+
+---
+
+## Questions?
