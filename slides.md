@@ -51,6 +51,7 @@ What will we commit to improve over the next sprint?
 ## Sprint Planning
 
 Next sprint
+
 | Starting | Ending | Length |
 | -------- | ------ | ------ |
 | March 02 | March 15 | 14 days |
